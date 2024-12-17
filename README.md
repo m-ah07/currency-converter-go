@@ -47,3 +47,7 @@ currency-converter-go/
     ```bash
     1 USD = 0.85 EUR
     ```
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
