@@ -1,0 +1,6 @@
+# Ignore binary files and temporary files
+*.exe
+*.out
+*.log
+.DS_Store
+bin/
