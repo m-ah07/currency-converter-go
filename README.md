@@ -8,7 +8,7 @@ A simple and efficient currency converter written in Go (Golang) using real-time
 - Easy to use and extend.
 
 ## Directory Structure
-
+```plaintext
 currency-converter-go/
 ├── src/
 │   └── main.go              # Main logic for the currency converter
@@ -16,7 +16,7 @@ currency-converter-go/
 │   └── example.go           # Demonstration of using the currency converter
 ├── .gitignore               # Git ignore file
 └── README.md                # Documentation file
-
+```
 
 ## Prerequisites
 - Go installed on your system.
