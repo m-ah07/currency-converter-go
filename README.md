@@ -2,27 +2,28 @@
 
 A simple and efficient currency converter written in Go (Golang) using real-time exchange rates from the ExchangeRate-API.
 
-## Features
+## 🚀 Features
 - Fetches real-time exchange rates for multiple currencies.
 - Lightweight and fast CLI tool.
 - Easy to use and extend.
 
-## Directory Structure
+## 📂 Directory Structure
 ```plaintext
 currency-converter-go/
 ├── src/
-│   └── main.go              # Main logic for the currency converter
+│   └── main.go
 ├── examples/
-│   └── example.go           # Demonstration of using the currency converter
-├── .gitignore               # Git ignore file
-└── README.md                # Documentation file
+│   └── example.go
+├── LICENSE
+├── .gitignore
+└── README.md
 ```
 
 ## Prerequisites
 - Go installed on your system.
 - Free API key from [ExchangeRate-API](https://www.exchangerate-api.com).
 
-## Installation
+## 🔧 Installation
 1. Clone the repository:
 
     ```bash
@@ -48,5 +49,8 @@ currency-converter-go/
     1 USD = 0.85 EUR
     ```
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+## 🌟 Show Your Support
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
